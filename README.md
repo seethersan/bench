@@ -98,7 +98,7 @@ Follow [Easy Install Docs](https://github.com/frappe/bench/blob/master/docs/easy
 
 # Release Bench
 
-Releases can be made for [Frappe](https://github.com/frappe/frappe) apps using bench. More information about this process can be found [here](https://github.com/frappe/bench/blob/master/docs/releasing_frappe_apps.md).
+Releases can be made for [Frappe](https://github.com/seethersan/frappe) apps using bench. More information about this process can be found [here](https://github.com/frappe/bench/blob/master/docs/releasing_frappe_apps.md).
 
 ---
 
@@ -112,10 +112,10 @@ Releases can be made for [Frappe](https://github.com/frappe/frappe) apps using b
 
 # Docker Install
 
-1. For developer setup, you can also use the official [Frappe Docker](https://github.com/frappe/frappe_docker/).
+1. For developer setup, you can also use the official [Frappe Docker](https://github.com/seethersan/frappe_docker/).
 2. The app, mariadb and redis run on individual containers.
 3. This setup supports multi-tenancy and exposes the frappe-bench volume as a external storage.
-4. For more details, [ead the instructions on the [Frappe Docker README](https://github.com/frappe/frappe_docker/)
+4. For more details, [ead the instructions on the [Frappe Docker README](https://github.com/seethersan/frappe_docker/)
 
 ---
 

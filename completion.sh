@@ -13,7 +13,7 @@ _bench_completion() {
         # Frappe is only installed in virtualenv "env" so use appropriate python executable
         COMPREPLY+=( $( COMP_WORDS="bench frappe "${COMP_WORDS[@]:1} \
                         COMP_CWORD=$(($COMP_CWORD+1)) \
-                        _BENCH_COMPLETE=complete ../env/bin/python ../apps/frappe/frappe/utils/bench_helper.py ) )
+                        _BENCH_COMPLETE=complete ../env/bin/python ../apps/seethersan/frappe/utils/bench_helper.py ) )
 
         # If the word before the current cursor position in command typed so far is "--site" then only list sites
         if [ ${COMP_WORDS[COMP_CWORD-1]} == "--site" ]; then

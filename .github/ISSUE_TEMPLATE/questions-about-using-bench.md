@@ -1,5 +1,5 @@
 ---
-name: Question about using Bench/Frappe/Frappe Apps
+name: Question about using Bench/seethersan/frappe Apps
 about: This is not the appropriate channel
 labels: invalid
 ---
@@ -12,7 +12,7 @@ for questions about using the `Frappe Framework`: ~~https://discuss.frappe.io~~ 
 
 for questions about using `ERPNext`: https://discuss.erpnext.com
 
-For documentation issues, use the [Frappe Framework Documentation](https://frappe.io/docs/user/en) or the [developer cheetsheet](https://github.com/frappe/frappe/wiki/Developer-Cheatsheet)
+For documentation issues, use the [Frappe Framework Documentation](https://frappe.io/docs/user/en) or the [developer cheetsheet](https://github.com/seethersan/frappe/wiki/Developer-Cheatsheet)
 
 For a slightly outdated yet informative developer guide: https://www.youtube.com/playlist?list=PL3lFfCEoMxvzHtsZHFJ4T3n5yMM3nGJ1W
 

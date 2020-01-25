@@ -2,7 +2,7 @@
 
 * Make a new bench dedicated for releasing
 ```
-bench init release-bench --frappe-path git@github.com:frappe/frappe.git
+bench init release-bench --frappe-path git@github.com:seethersan/frappe.git
 ```
 
 * Get ERPNext in the release bench
